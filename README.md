@@ -1,9 +1,9 @@
 # Arnold’s Cat Map — A Study in Chaos and Dynamical Systems
 
-📚 *Algebra & Coding Project*  
-🎓 *National Higher School of Mathematics*  
-👨‍🎓 *Marouf Haider*  
-👨‍🎓 *Bahidj Nafaa*  
+ *Algebra & Coding Project*  
+ *National Higher School of Mathematics*  
+ *Marouf Haider*  
+ *Bahidj Nafaa*  
 📅 *Academic Year: 2023–2024*
 
 ---
@@ -52,7 +52,7 @@ This project explores:
 
 ---
 
-## 🧪 How to Run the Code
+##  How to Run the Code
 
 1. Clone this repo or download the `.ipynb` notebook.
 2. Install required dependencies:
@@ -65,7 +65,7 @@ This project explores:
 This repo includes an example input and output to demonstrate functionality.
 
 - 📥 Input image: [`assets/test_image.jpg`](assets/test_image.jpg)
-- 📤 Output result: [`output/result_output.jpg`](outputs/result_output.jpg)
+- 📤 Output result: [`output/result_output.jpg`](outputs/encoded_image10.jpg)
 ---
 ## 📧 Contacts 
 - [Haider Marouf]-(haider.marouf@nhsm.edu.dz)/(ensmmarouf@gmail.com).
