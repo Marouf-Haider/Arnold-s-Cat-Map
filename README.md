@@ -23,7 +23,7 @@ This project explores:
 ## 📄 Contents
 
 - `report.pdf`: Full academic write-up with theory, proofs, and visuals
-- `Arnold's cat map implementation.ipynb`: Jupyter notebook with:
+- `Implementation.ipynb`: Jupyter notebook with:
   - Image encoding using Arnold's Cat Map
   - Calculation of minimal period
   - Image retrieval using reverse iterations
