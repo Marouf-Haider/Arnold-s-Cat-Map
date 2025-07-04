@@ -64,7 +64,7 @@ This project explores:
 
 This repo includes an example input and output to demonstrate functionality.
 
-- 📥 Input image: ![`assets/test_image.jpg`](assets/test_image.jpg) -📤 Output result: ![`output/result_output.jpg`](outputs/encoded_image10.jpg)
+- 📥 Input image (240*240): ![`assets/test_image.jpg`](assets/test_image.jpg) -📤 Output result (10 iterations): ![`output/result_output.jpg`](outputs/encoded_image10.jpg)
 - 📤 Retrieved image: ![`output/retrieved_image.jpg`](outputs/retrieved_image.jpg)
 ---
 ## 📧 Contacts 
