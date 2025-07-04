@@ -64,8 +64,8 @@ This project explores:
 
 This repo includes an example input and output to demonstrate functionality.
 
-- 📥 Input image: ![`assets/test_image.jpg`](assets/test_image.jpg)
-- 📤 Output result: ![`output/result_output.jpg`](outputs/encoded_image10.jpg)
+- 📥 Input image: ![`assets/test_image.jpg`](assets/test_image.jpg) -📤 Output result: ![`output/result_output.jpg`](outputs/encoded_image10.jpg)
+- 📤 Retrieved image: ![`output/retrieved_image.jpg`](outputs/retrieved_image.jpg)
 ---
 ## 📧 Contacts 
 - [Haider Marouf]-(haider.marouf@nhsm.edu.dz)/(ensmmarouf@gmail.com).
