@@ -68,8 +68,8 @@ This repo includes an example input and output to demonstrate functionality.
 - 📤 Retrieved image: ![`output/retrieved_image.jpg`](outputs/retrieved_image.jpg)
 ---
 ## 📧 Contacts 
-- [Haider Marouf]-(haider.marouf@nhsm.edu.dz)/(ensmmarouf@gmail.com).
-- [Bahidj Nafaa]-(N/A).
+- Haider Marouf-(haider.marouf@nhsm.edu.dz)/(ensmmarouf@gmail.com).
+- Bahidj Nafaa-(N/A).
 
 ---
 Feel free to open issues for suggestions or comments. Contributions are welcome.
