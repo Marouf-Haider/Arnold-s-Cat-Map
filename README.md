@@ -9,6 +9,7 @@
 ---
 
 ## 🔍 Project Overview
+<p align ="center"><img src="assets/test_image.jpg" \><img src="outputs/encoded_image10.jpg" \>  </p>
 
 Arnold’s Cat Map is a discrete dynamical system known for exhibiting chaotic behavior. It transforms a unit square using a linear transformation followed by a modular reduction, resulting in image scrambling and periodicity.
 
